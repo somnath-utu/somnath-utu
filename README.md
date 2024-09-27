@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on understanding natural selection in northern europe population.
 - 📫 How to reach me: you can reach to me through email, x(twitter), linkdin, Discord or github etc.
 - 😄 Pronouns: .always He/Him
-- ⚡ Fun fact: Well, I dont have time to create new fun fact using chatgpt!!
+- ⚡ Fun fact: Well, I dont have time to genrate new fun fact using chatgpt!!
 
 <!---
 somnath-utu/somnath-utu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
