@@ -1,4 +1,4 @@
-- 👋 Hi, I’m somnath
+- 👋 Hi, I’m somnath Chindhe
 - 👀 I’m interested in evolutionary genetics of humans
 - 🌱 I’m currently learning evaerything that I did not know.
 - 💞️ I’m looking to collaborate on understanding natural selection in northern europe population.
