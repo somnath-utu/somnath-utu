@@ -1,4 +1,4 @@
-- 👋 Hi, I’m somnath Chindhe
+- 👋 Hi, I’m somnath Chindhe, PhD student at University of Turku, Finland
 - 👀 I’m interested in the evolutionary genetics of humans
 - 🌱 I’m currently learning everything that I did not know.
 - 💞️ I’m looking to collaborate on understanding natural selection in the Northern European population.
